@@ -16,12 +16,6 @@ All tables are linked using **foreign keys** to ensure data integrity.
 
 ---
 
-## 📁 Project Structure
-
-
-
----
-
 ## 📊 Analytics Covered
 - User & subscription metrics
 - Revenue and churn analysis
