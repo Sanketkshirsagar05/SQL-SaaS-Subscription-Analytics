@@ -16,6 +16,12 @@ All tables are linked using **foreign keys** to ensure data integrity.
 
 ---
 
+### 🔗 ER Diagram
+
+![ER Diagram](https://github.com/Sanketkshirsagar05/SQL-SaaS-Subscription-Analytics/blob/main/ER%20Diagram.png)
+
+---
+
 ## 📊 Analytics Covered
 - User & subscription metrics
 - Revenue and churn analysis
