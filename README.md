@@ -1,4 +1,4 @@
-# 📊 SaaS Subscription Analytics (SQL Project)
+# 📊 SaaS Subscription Analytics 
 
 ## 📌 Overview
 This project simulates a **real-world SaaS subscription analytics system** using **SQL Server**.  
