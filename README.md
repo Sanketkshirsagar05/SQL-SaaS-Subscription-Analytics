@@ -16,6 +16,17 @@ All tables are linked using **foreign keys** to ensure data integrity.
 
 ---
 
+## 📥 Data Source
+
+The data used in this project was **synthetically generated using Mockaroo**  
+(https://www.mockaroo.com/) in SQL format.
+
+- Purpose: Simulate a real-world SaaS subscription system  
+- Tables generated: users, subscriptions, payments, cancellations, plan_changes, usage_logs, support_tickets  
+- The `plans` table was **manually created** as static master data
+
+---
+
 ### 🔗 ER Diagram
 
 ![ER Diagram](https://github.com/Sanketkshirsagar05/SQL-SaaS-Subscription-Analytics/blob/main/ER%20Diagram.png)
